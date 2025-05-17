@@ -1,0 +1,4 @@
+# Common files to ignore
+.DS_Store
+node_modules/
+*.log 
